@@ -23,6 +23,3 @@ contextily>=1.4
 
 # NASA Earthdata access
 earthaccess>=0.8
-
-# Jupyter/IPython support
-ipython>=8.0

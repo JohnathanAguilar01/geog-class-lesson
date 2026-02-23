@@ -1,9 +1,3 @@
-Love this — this is exactly the kind of repo that *should* have a strong README. Since this is instructional and technical, I’ll keep it clean, professional, and classroom-ready so it looks good on GitHub and for your CV.
-
-You can paste this directly into your `README.md`.
-
----
-
 # 🌊 geog-class-lesson
 
 **Cloud-Native Sea Surface Temperature (SST) Analysis with Python**

@@ -95,28 +95,25 @@ geog-class-lesson/
 
 ---
 
+Perfect — here’s a clean replacement **Setup** section you can drop into your `README.md` that directs users to the PDF instructions.
+
+---
+
 # 🚀 Setup Instructions
 
-### 1️⃣ Clone the Repository
+To ensure a smooth and consistent setup, **please follow the step-by-step guide provided in:**
 
-```bash
-git clone https://github.com/yourusername/geog-class-lesson.git
-cd geog-class-lesson
+```
+geog_lesson_instructions.pdf
 ```
 
-### 2️⃣ Create Environment (Recommended)
+This document includes:
 
-```bash
-conda create -n geog-sst python=3.11
-conda activate geog-sst
-pip install -r requirements.txt
-```
+* NASA Earthdata account setup
+* Google Collab setup
 
-Or simply run inside Jupyter:
-
-```python
-!pip install -r requirements.txt
-```
+⚠️ **Important:**
+Do not skip the PDF instructions — the notebook assumes the environment has been configured exactly as described there.
 
 ---
 
@@ -158,20 +155,6 @@ You will be prompted for credentials when running the lesson.
 * SST map with basemap
 * Time series plot
 * Animated GIF timelapse
-
----
-
-# 📊 Example Outputs
-
-* Weekly SST map (Caribbean)
-* Annual mean SST time series
-* SST animated GIF
-* Summary statistics:
-
-  * Mean
-  * Maximum
-  * Minimum
-  * Standard deviation
 
 ---
 
@@ -253,13 +236,4 @@ Estimated runtime:
 
 # 📜 License
 
-MIT License (or choose your preferred license)
-
----
-
-If you'd like, I can also:
-
-* Make this README more minimal (clean academic style)
-* Make a more “portfolio polished” version for grad school applications
-* Add badges (Python version, license, NASA data, etc.)
-* Write a short abstract paragraph you can reuse in teaching statements
+MIT License
